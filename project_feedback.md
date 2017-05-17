@@ -5,7 +5,9 @@ Reproducibility
 7/10
 
 Readme file – 2/4
+
 There is a readme file, but it does not describe: steps needed to run the code on another computer, dependencies, location of data in repository, or how to access data.
+
 Notebook file -  3/4
 
 There is an old notebook file which runs, but there is no written information about what has been done.
